@@ -2,7 +2,7 @@
   <q-layout>
     
     <q-page-container>
-      ESTO ES UNA PRUEBA
+      Fix V1
       <q-page class="flex bg-image flex-center">
         <q-card v-bind:style="$q.screen.lt.sm?{'width': '80%'}:{'width':'30%'}">
           <q-card-section>
